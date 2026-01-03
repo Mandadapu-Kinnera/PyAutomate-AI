@@ -7,8 +7,6 @@ A smart and interactive AI-based workflow automation dashboard built with **Next
 
 **PyAutomate AI** is a modern, scalable, and visually appealing dashboard designed for automating repetitive tasks and workflows using AI-driven insights. The interface is built to be highly responsive and user-friendly, making task management and process control efficient for users and organizations.
 
----
-
 ## Features
 
 -  **Authentication** – Secure login and signup pages
@@ -18,8 +16,6 @@ A smart and interactive AI-based workflow automation dashboard built with **Next
 -  **Responsive UI** – Designed with mobile-first responsive layouts
 -  **Theme Toggle** – Dark/light mode support
 -  **Reusable Components** – Built with scalable architecture and modular UI components
-
----
 
 ##  Tech Stack
 
@@ -33,11 +29,7 @@ A smart and interactive AI-based workflow automation dashboard built with **Next
 | Build Tools   | Vite, ESLint, Prettier               |
 | Deployment    | (Optional) Vercel / Netlify          |
 
----
-
 ##  Project Structure
-
-
 
 
 ![Screenshot 2025-06-20 151025](https://github.com/user-attachments/assets/6c8f62c0-8a05-4915-b8fd-b24f78c810f7)
